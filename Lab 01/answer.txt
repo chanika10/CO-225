@@ -1,0 +1,7 @@
+should the average percentage attendance be 50%? Explain.
+
+yes.Here we obtain the random value for the attendance.
+But those random values are distributed uniformly(uniform distribution).
+In an uniform distribution,the mean value will always be 50.
+But in this case we use average values and round off values.
+Therefore the answer obtain by the code will be a nearest value to 50%. 
